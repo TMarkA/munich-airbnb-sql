@@ -1,0 +1,6 @@
+room_type,listings,pct_of_listings,active_listings,pct_active,hosts,median_price_eur,median_rating,avg_nights_booked_active
+ALL LISTINGS,6865,100.0,3762,54.8,5225,144,4.89,69
+Entire home/apt,4586,66.8,2507,54.7,3725,180,4.89,69
+Private room,2200,32.0,1214,55.2,1672,103,4.90,69
+Hotel room,54,0.8,30,55.6,11,116,4.50,73
+Shared room,25,0.4,11,44.0,24,71,4.85,27

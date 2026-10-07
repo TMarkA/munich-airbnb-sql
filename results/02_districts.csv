@@ -1,0 +1,26 @@
+density_rank,district,listings,active_listings,listings_per_km2,pct_entire_homes,median_price_eur,median_rating,est_revenue_12m_eur_m
+1,Ludwigsvorstadt-Isarvorstadt,869,541,211.8,70.3,182,4.83,9.20
+2,Schwanthalerhöhe,234,117,116.2,72.6,205,4.91,1.06
+3,Maxvorstadt,529,287,115.5,76.7,201,4.91,5.79
+4,Au-Haidhausen,417,201,98.0,73.4,166,4.99,2.01
+5,Schwabing-West,398,207,95.3,73.4,157,4.92,2.00
+6,Altstadt-Lehel,247,139,78.6,66.8,293,4.91,4.57
+7,Sendling,227,117,65.6,68.7,165,4.91,0.90
+8,Obergiesing-Fasangarten,250,133,43.5,69.6,126,4.90,0.78
+9,Laim,208,118,40.5,60.1,122,4.85,1.11
+10,Neuhausen-Nymphenburg,396,195,30.0,71.0,142,4.92,2.12
+11,Sendling-Westpark,234,135,30.0,60.7,119,4.89,1.02
+12,Untergiesing-Harlaching,215,108,25.4,67.4,136,4.90,0.70
+13,Berg am Laim,125,74,22.2,56.8,130,4.89,0.82
+14,Milbertshofen-Am Hart,236,125,17.6,60.2,113,4.90,0.77
+15,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,273,149,15.4,65.2,126,4.86,1.45
+16,Ramersdorf-Perlach,282,159,14.4,59.9,113,4.87,1.43
+17,Bogenhausen,337,168,14.0,67.1,151,4.89,1.93
+18,Pasing-Obermenzing,220,120,13.8,58.2,111,4.92,1.00
+19,Trudering-Riem,303,188,13.6,45.9,118,4.89,1.21
+20,Moosach,144,78,13.6,65.3,124,4.78,0.86
+21,Schwabing-Freimann,309,169,12.1,67.3,141,4.87,1.74
+22,Hadern,72,38,7.8,48.6,113,4.96,0.24
+23,Aubing-Lochhausen-Langwied,160,96,4.9,80.0,110,4.67,0.44
+24,Allach-Untermenzing,73,44,4.3,53.4,120,4.96,0.46
+25,Feldmoching-Hasenbergl,107,56,3.7,52.3,113,4.90,0.71

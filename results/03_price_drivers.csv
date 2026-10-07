@@ -1,0 +1,8 @@
+room_type,size_class,listings,median_price_eur,median_price_per_guest_eur
+Entire home/apt,1-2 guests,1237,130,73
+Entire home/apt,3-4 guests,963,204,57
+Entire home/apt,5+ guests,494,360,56
+Hotel room,1-2 guests,41,110,67
+Private room,1-2 guests,1230,96,59
+Private room,3-4 guests,190,149,43
+Private room,5+ guests,55,254,34

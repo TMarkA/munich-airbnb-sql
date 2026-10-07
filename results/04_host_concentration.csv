@@ -1,0 +1,4 @@
+host_type,hosts,listings,pct_listings,pct_active_listings,pct_est_revenue,pct_entire_homes,avg_nights_booked_active,median_rating
+1 Single listing,4547,4547,66.2,59.6,42.0,71.8,56,4.93
+2 Multi (2-4),574,1379,20.1,23.4,28.4,51.6,79,4.86
+3 Professional (5+),104,939,13.7,17.0,29.6,65.1,99,4.70

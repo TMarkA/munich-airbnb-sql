@@ -1,0 +1,13 @@
+check_name,problem_rows,checked_rows,rule
+duplicate listing ids,0,6865,must be 0
+listings without an official district,0,6865,must be 0
+prices that could not be converted,0,4440,must be 0
+coordinates outside Munich,0,6865,must be 0
+ratings outside 0-5,0,5652,must be 0
+reviews dated after the scrape,0,237201,must be 0
+listings without a price,2425,6865,info
+"price outliers (under 15 or over 2,000 EUR)",52,4440,info
+calendar listings missing in the listings file,25,6890,info
+reviews of listings that left Airbnb,522,237201,info
+occupancy estimate differs from Inside Airbnb by more than 5 nights,137,6865,info
+listings with fewer than 360 calendar nights,0,6865,info

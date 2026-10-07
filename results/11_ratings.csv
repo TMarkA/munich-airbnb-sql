@@ -1,0 +1,12 @@
+dimension,segment,listings,avg_rating,pct_below_4_5,pct_4_9_or_better,avg_cleanliness,avg_value_for_money
+all,all listings (>= 5 reviews),3971,4.80,8.8,41.3,4.76,4.66
+host type,1 Single listing,2498,4.84,5.1,48.7,4.78,4.70
+host type,2 Multi (2-4),879,4.78,10.2,37.4,4.75,4.64
+host type,3 Professional (5+),594,4.65,22.4,15.8,4.66,4.51
+superhost,not superhost,2709,4.76,12.4,36.1,4.71,4.62
+superhost,superhost,1262,4.88,1.1,52.5,4.86,4.74
+price band,1 under 75,328,4.79,6.7,36.6,4.72,4.68
+price band,2 75-124,760,4.77,11.8,36.1,4.74,4.64
+price band,3 125-199,732,4.78,9.8,36.5,4.76,4.64
+price band,4 200-349,517,4.82,6.0,42.9,4.78,4.65
+price band,5 350+,402,4.83,8.7,52.5,4.79,4.66

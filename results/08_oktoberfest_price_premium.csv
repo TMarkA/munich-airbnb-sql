@@ -1,0 +1,7 @@
+room_type,size_class,quotes_oktoberfest,quotes_other_dates,median_other_eur,median_oktoberfest_eur,premium_pct
+Entire home/apt,1-2 guests,40,1237,130,227,75
+Entire home/apt,3-4 guests,41,963,204,415,103
+Entire home/apt,5+ guests,21,494,360,899,150
+Entire home/apt,all sizes,102,2694,180,380,111
+Private room,1-2 guests,46,1230,96,129,33
+Private room,all sizes,52,1475,103,130,26
