@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# original Inside Airbnb downloads (contain names and review texts) - only the
+# privacy-reduced copies in data/<snapshot>/ are committed
+data/downloads/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
